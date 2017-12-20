@@ -1,3 +1,6 @@
+# -*- coding:utf-8 -*-
+# Author: Muhe
+# Version:2.0
 import findlinks
 
 

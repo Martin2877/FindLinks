@@ -1,4 +1,5 @@
 # -*- coding:utf-8 -*-
+# Author: Muhe
 # Version:2.0
 # 不爬相似地址了。
 # 有时候xml解析会报错

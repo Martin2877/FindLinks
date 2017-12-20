@@ -1,5 +1,7 @@
 # FindLinks
 
+Author：木禾
+
 自己用python2写的一个爬页面工具，效果还不错。
 
 ## 功能：
