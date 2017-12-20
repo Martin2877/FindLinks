@@ -1,0 +1,2 @@
+http://localhost/ca/phpmywind5.3/
+http://localhost/ca/startbbs1.2.3/
